@@ -1,0 +1,16 @@
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Maven / Java
+target/
+*.class
+
+# Файли, які програми генерують самі
+salary_matrix.txt
+output_l1.txt
+
+# ОС
+.DS_Store
+Thumbs.db
